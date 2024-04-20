@@ -1,3 +1,36 @@
 [submodule "Input_Validation"]
 	path = Input_Validation
 	url = https://github.com/slazyslother/Input_Validation.git
+[submodule "Input-Validation"]
+	path = Input-Validation
+	url = git@github.com:slazyslother/Input-Validation.git
+[submodule "Utility-Functions"]
+	path = Utility-Functions
+	url = git@github.com:slazyslother/Utility-Functions.git
+[submodule "Rate-Limiting"]
+	path = Rate-Limiting
+	url = git@github.com:slazyslother/Rate-Limiting.git
+[submodule "Password-Management"]
+	path = Password-Management
+	url = git@github.com:slazyslother/Password-Management.git
+[submodule "Restrictions"]
+	path = Restrictions
+	url = git@github.com:slazyslother/Restrictions.git
+[submodule "Session-Management"]
+	path = Session-Management
+	url = git@github.com:slazyslother/Session-Management.git
+[submodule "Database-Operations"]
+	path = Database-Operations
+	url = git@github.com:slazyslother/Database-Operations.git
+[submodule "Security-Measures"]
+	path = Security-Measures
+	url = git@github.com:slazyslother/Security-Measures.git
+[submodule "Account-Suspension-Ban"]
+	path = Account-Suspension-Ban
+	url = git@github.com:slazyslother/Account-Suspension-Ban.git
+[submodule "Account-Activation-Deactivation"]
+	path = Account-Activation-Deactivation
+	url = git@github.com:slazyslother/Account-Activation-Deactivation.git
+[submodule "User-Actions"]
+	path = User-Actions
+	url = git@github.com:slazyslother/User-Actions.git
