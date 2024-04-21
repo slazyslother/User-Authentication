@@ -34,3 +34,18 @@
 [submodule "User-Actions"]
 	path = User-Actions
 	url = git@github.com:slazyslother/User-Actions.git
+[submodule "Token-Service"]
+	path = Token-Service
+	url = git@github.com:slazyslother/Token-Service.git
+[submodule "Notification-Service"]
+	path = Notification-Service
+	url = git@github.com:slazyslother/Notification-Service.git
+[submodule "Api-Gateway"]
+	path = Api-Gateway
+	url = git@github.com:slazyslother/Api-Gateway.git
+[submodule "Authentication-Service"]
+	path = Authentication-Service
+	url = git@github.com:slazyslother/Authentication-Service.git
+[submodule "User-Service"]
+	path = User-Service
+	url = git@github.com:slazyslother/User-Service.git
